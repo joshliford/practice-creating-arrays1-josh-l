@@ -2,7 +2,7 @@
 Instructions: Create a program to practice building and logging arrays.
 
 Task 1: Create Arrays
-Create two separate arrays using array literals for the following:
+Create three separate arrays using array literals for the following:
 ● An array of 5 grocery store items.
 ● An array of 3 numbers representing prices.
 
